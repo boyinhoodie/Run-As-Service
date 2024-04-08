@@ -37,6 +37,7 @@ namespace RunAsService
 
                         #region 启动cmd
 
+                        // TODO：读取外部配置
                         var exePaths = new[]
                         {
                             //@"C:\Windows\system32\cmd.exe",
